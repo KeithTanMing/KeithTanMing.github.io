@@ -1,7 +1,7 @@
 ---
-title: "Data Wrangling Project"
-date: 2018-01-28
-tags: [data wrangling, data science, messy data]
+title: "Airbnb Price Prediction"
+date: 2019-12-06
+tags: [Airbnb, Price Prediction, Optimization, Data Science, Price Optimization, Data Modelling]
 header:
   image: "/images/perceptron/percept.jpg"
 excerpt: "Data Wrangling, Data Science, Messy Data"

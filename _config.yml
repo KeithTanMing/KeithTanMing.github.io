@@ -201,7 +201,9 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-
+  
+#theme
+remote_theme: "mmistakes/minimal-mistakes"
 
 # Archives
 #  Type

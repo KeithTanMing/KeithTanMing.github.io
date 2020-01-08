@@ -8,4 +8,4 @@ excerpt: "Data Wrangling, Data Science, Messy Data"
 mathjax: "true"
 ---
 
-* Under Construction: Check back soon!
+## Under Construction: Check back soon!

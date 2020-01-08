@@ -8,23 +8,23 @@ excerpt: "Data Wrangling, Data Science, Messy Data"
 mathjax: "true"
 ---
 
-# H1 Heading
+- # H1 Heading
 
-## H2 Heading
+- ## H2 Heading
 
-### H3 Heading
+- ### H3 Heading
 
-Here's some basic text.
+- Here's some basic text.
 
-And here's some *italics*
+- And here's some *italics*
 
-Here's some **bold** text.
+- Here's some **bold** text.
 
-What about a [link](https://github.com/dataoptimal)?
+- What about a [link](https://github.com/dataoptimal)?
 
-Here's a bulleted list:
-* First item
-+ Second item
+- Here's a bulleted list:
+- * First item
+- + Second item
 - Third item
 
 Here's a numbered list:
